@@ -1,0 +1,15 @@
+README.rst
+setup.cfg
+setup.py
+data/data_file
+sample/__init__.py
+sample/package_data.dat
+sample/test1.py
+sample/test2.py
+sample/test3.py
+sample.egg-info/PKG-INFO
+sample.egg-info/SOURCES.txt
+sample.egg-info/dependency_links.txt
+sample.egg-info/entry_points.txt
+sample.egg-info/requires.txt
+sample.egg-info/top_level.txt

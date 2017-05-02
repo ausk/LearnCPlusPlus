@@ -1,0 +1,6 @@
+[console_scripts]
+sample = sample.__init__:main
+
+[gui_scripts]
+sample = sample.__init__:main
+
